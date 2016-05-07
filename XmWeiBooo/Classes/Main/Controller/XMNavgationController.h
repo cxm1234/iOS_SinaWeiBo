@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  XMNavgationController.h
 //  XmWeiBooo
 //
 //  Created by blackapple on 16/4/3.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface XMNavgationController : UINavigationController
 
 @end
-
